@@ -1,1 +1,1 @@
-# Celcius-to-Farenhith
+# Celcius-to-Farenheit
